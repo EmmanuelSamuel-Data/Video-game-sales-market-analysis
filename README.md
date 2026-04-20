@@ -2,6 +2,7 @@
 **🎮 Video Game Industry Sales Analysis (1980–2016)
 
 **📊 Overview**
+
 This project presents a comprehensive analysis of the global video game industry using historical sales data from VGChartz, spanning 1980 to 2016.
 The dataset includes:
 * 16,598 titles
@@ -101,15 +102,15 @@ Metrics include:
 
 **🔍 Key Insights**
 
-1.🎯 Nintendo leads structurally (high per-title performance)
+ 1.🎯 Nintendo leads structurally (high per-title performance)
 
-2. 🌍 North America is the core market
+ 2. 🌍 North America is the core market
 
-3. 📉 Post-2008 decline reflects industry shift, not true demand drop
+ 3. 📉 Post-2008 decline reflects industry shift, not true demand drop
 
-4. 💰 Platform & Shooter genres offer best ROI
+ 4. 💰 Platform & Shooter genres offer best ROI
 
-5. ⚠️ Adventure & Strategy underperform
+ 5. ⚠️ Adventure & Strategy underperform
 
 
 
