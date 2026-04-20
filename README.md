@@ -138,6 +138,7 @@ Metrics include:
 * A major shift from physical → digital gaming
 
  **⚠️ Limitation**
+ 
 This analysis is based on physical retail sales data only. The following limitations should be considered when interpreting the findings
  
  **Post-2012 data is incomplete** 
