@@ -137,6 +137,13 @@ Metrics include:
 * Differences in genre profitability
 * A major shift from physical → digital gaming
 
+ **⚠️ Limitation**
+This analysis is based on physical retail sales data only. The following limitations should be considered when interpreting the findings
+ 
+ **Post-2012 data is incomplete** 
+ 
+The observed 61% decline in sales between 2008 and 2015 is largely a data artefact. The gaming industry did not shrink — it migrated to digital and mobile channels that this dataset cannot track. Post-2012 figures should not be interpreted as a true market contraction.
+
 
 ⭐If you found this project insightful or would like to collaborate, feel free to connect with me on LinkedIn at Emmanuel Samuel or explore more of my work here.
 
